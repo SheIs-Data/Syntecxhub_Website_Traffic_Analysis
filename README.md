@@ -39,7 +39,7 @@ To transform website traffic data into meaningful business insights through inte
 
 **Program:** Syntecxhub Data Analytics Internship
 
-**Task:** Week 2 — Project 2
+**Task:** Week 2: Project 2
 
 **Status:** Completed ✅
 
